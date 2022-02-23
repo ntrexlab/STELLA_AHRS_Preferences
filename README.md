@@ -21,7 +21,7 @@ STELLA 구동 시 AHRS 센서 값 이상한 경우 윈도우 환경에서 UI를 
 ![ahrs_6](https://user-images.githubusercontent.com/85467544/155052044-3a1f01d8-2ccf-4688-a4bd-b19d8de88d3c.jpg)
 #### 3. AHRS UI를 실행한 후 Connect 버튼을 클릭합니다.
 ![ahrs_1](https://user-images.githubusercontent.com/85467544/155051990-a971622a-71f1-435d-8c67-2c0a11d3c987.png)
-#### 4. COM Port와 Baudrate을 맞춘 후 Connect 버튼 클릭합니다. 
+#### 4. 컴퓨터에 잡혀있는 포트 번호를 확인 후에 COM Port와 Baudrate을 설정합니다. 그리고 Connect 버튼 클릭합니다. 
 ![ahrs_2](https://user-images.githubusercontent.com/85467544/155051997-8b42113a-a596-460a-8056-ae420b9261a6.png)
 #### 5. Temperature(1) 나오면 정상 연결된 것입니다. 이후 Configure 버튼 클릭합니다.
 ![ahrs_3](https://user-images.githubusercontent.com/85467544/155052002-d1b7f123-00bf-458d-be72-b5f9521e94c3.png)
