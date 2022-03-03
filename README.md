@@ -8,7 +8,7 @@ STELLA 구동 시 AHRS 센서 값 이상한 경우 윈도우 환경에서 UI를 
     - AHRS - [MW_AHRSv1](http://www.devicemart.co.kr/goods/view?no=1310790)
      - USB2RS232_ahrscable - [USB2RS232_ahrscable](http://www.devicemart.co.kr/goods/view?no=1310790)
 * #### 사용 Tool
-    - AHRS_UI_180808 [설치경로-관련자료](http://www.devicemart.co.kr/goods/view?no=1310790#goods_file)
+    - AHRS_UI -> [다운로드 경로](https://github.com/ntrexlab/MW_AHRS_Manual/blob/main/AHRS_UI.exe)</br>
 
      
 ***
